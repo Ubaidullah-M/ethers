@@ -7,6 +7,6 @@
 
 ## How to run it.
 1. After cloning the repo and having all the installation in place, you run 'npm install' on the terminal to install all the project dependecies.
-2. the num 'npm run dev' to start the server.
+2. then type'npm run dev' on the terminal again to start the server.
 
 
